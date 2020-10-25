@@ -1,0 +1,8 @@
+ner	INFO	Running c1601561188878	geckodriver	INFO	Listening on 127.0.0.1:22460
+1601561189447	mozrunner::runommand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AKASHK~1\\AppData\\Local\\Temp\\rust_mozprofilegSEyfe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601561193497	Marionette	INFO	Listening on port 64330
+1601561193587	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
